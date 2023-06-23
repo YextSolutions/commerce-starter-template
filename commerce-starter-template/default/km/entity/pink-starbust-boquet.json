@@ -1,0 +1,103 @@
+{
+  "$id": "pink-starbust-boquet",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "color": "Pink",
+    "commerce_linkedProductCategories": [
+      "bouquets"
+    ],
+    "commerce_manufacturersSuggestedRetailPriceMSRP": {
+      "currencyCode": "USD",
+      "value": "29"
+    },
+    "commerce_primaryCTA": {
+      "label": "Add to Cart",
+      "link": "https://www.yext.com",
+      "linkType": "URL"
+    },
+    "name": "Pink Starbust Bouquet",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 247,
+          "sourceUrl": "http://a.mktgcdn.com/p/YuyNWmHV26QZLXv0ktSMkYFwG3-Zq4gDwRPQqlS0nRk/204x247.jpg",
+          "thumbnails": [
+            {
+              "height": 247,
+              "url": "http://a.mktgcdn.com/p-sandbox/YuyNWmHV26QZLXv0ktSMkYFwG3-Zq4gDwRPQqlS0nRk/204x247.jpg",
+              "width": 204
+            },
+            {
+              "height": 237,
+              "url": "http://a.mktgcdn.com/p-sandbox/YuyNWmHV26QZLXv0ktSMkYFwG3-Zq4gDwRPQqlS0nRk/196x237.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/YuyNWmHV26QZLXv0ktSMkYFwG3-Zq4gDwRPQqlS0nRk/204x247.jpg",
+          "width": 204
+        }
+      },
+      {
+        "image": {
+          "height": 1000,
+          "sourceUrl": "https://a.mktgcdn.com/p/iRlZJGDkyVy5QSlYCPNAQq6Oq8No0urHgfSVAOeprVY/866x1000.jpg",
+          "thumbnails": [
+            {
+              "height": 1000,
+              "url": "http://a.mktgcdn.com/p-sandbox/iRlZJGDkyVy5QSlYCPNAQq6Oq8No0urHgfSVAOeprVY/866x1000.jpg",
+              "width": 866
+            },
+            {
+              "height": 715,
+              "url": "http://a.mktgcdn.com/p-sandbox/iRlZJGDkyVy5QSlYCPNAQq6Oq8No0urHgfSVAOeprVY/619x715.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/iRlZJGDkyVy5QSlYCPNAQq6Oq8No0urHgfSVAOeprVY/390x450.jpg",
+              "width": 390
+            },
+            {
+              "height": 226,
+              "url": "http://a.mktgcdn.com/p-sandbox/iRlZJGDkyVy5QSlYCPNAQq6Oq8No0urHgfSVAOeprVY/196x226.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/iRlZJGDkyVy5QSlYCPNAQq6Oq8No0urHgfSVAOeprVY/866x1000.jpg",
+          "width": 866
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "29"
+    },
+    "primaryPhoto": {
+      "image": {
+        "height": 225,
+        "sourceUrl": "https://a.mktgcdn.com/p/aivQY5Dcal7JKgBNLSqmwf8Y4J4lWgCQ8XMI8LXdKrU/225x225.jpg",
+        "thumbnails": [
+          {
+            "height": 225,
+            "url": "http://a.mktgcdn.com/p-sandbox/aivQY5Dcal7JKgBNLSqmwf8Y4J4lWgCQ8XMI8LXdKrU/225x225.jpg",
+            "width": 225
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/aivQY5Dcal7JKgBNLSqmwf8Y4J4lWgCQ8XMI8LXdKrU/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/aivQY5Dcal7JKgBNLSqmwf8Y4J4lWgCQ8XMI8LXdKrU/225x225.jpg",
+        "width": 225
+      }
+    },
+    "richTextDescription": "A lovely variety of pink flowers that comes with beautiful glass vase.\n\n\n\n\nA vibrant mix of purple, lilac and pink blossoms. The feminine color palette is pretty without being overtly sweet, much like the rare and magical creature it is named after. Add a touch of purple this season with a mix of lavender\\-hued roses and sprigs of aster.\n\n\n\n\n**Includes**\n\n\n\n\n* Roses\n* Aster\n* Alstroemeria",
+    "slug": "pink-starbust-boquet"
+  },
+  "entityType": "product",
+  "labels": [
+    "starterEntity"
+  ]
+}

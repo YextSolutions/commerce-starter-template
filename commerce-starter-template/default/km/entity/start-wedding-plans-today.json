@@ -1,0 +1,43 @@
+{
+  "$id": "start-wedding-plans-today",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Start Wedding Planning Today",
+    "primaryPhoto": {
+      "image": {
+        "height": 1875,
+        "sourceUrl": "https://a.mktgcdn.com/p/QdVhJknw0GRRIZpacFAJxmGvP6hwYcciXGKIZ4Gcx7E/1500x1875.jpg",
+        "thumbnails": [
+          {
+            "height": 1875,
+            "url": "http://a.mktgcdn.com/p-sandbox/QdVhJknw0GRRIZpacFAJxmGvP6hwYcciXGKIZ4Gcx7E/1500x1875.jpg",
+            "width": 1500
+          },
+          {
+            "height": 774,
+            "url": "http://a.mktgcdn.com/p-sandbox/QdVhJknw0GRRIZpacFAJxmGvP6hwYcciXGKIZ4Gcx7E/619x774.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/QdVhJknw0GRRIZpacFAJxmGvP6hwYcciXGKIZ4Gcx7E/360x450.jpg",
+            "width": 360
+          },
+          {
+            "height": 245,
+            "url": "http://a.mktgcdn.com/p-sandbox/QdVhJknw0GRRIZpacFAJxmGvP6hwYcciXGKIZ4Gcx7E/196x245.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/QdVhJknw0GRRIZpacFAJxmGvP6hwYcciXGKIZ4Gcx7E/1500x1875.jpg",
+        "width": 1500
+      }
+    },
+    "richTextDescription": "# Start planning for your big day TODAY.\n\n## View our wedding flowers or request a consultation TODAY."
+  },
+  "entityType": "commerce_promotion",
+  "labels": [
+    "starterEntity"
+  ]
+}

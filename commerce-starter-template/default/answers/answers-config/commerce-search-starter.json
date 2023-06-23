@@ -1,0 +1,64 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "commerce-search-starter",
+  "name": "Commerce Search Starter",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "products": {
+      "dynamicRerank": {
+        "target": "CLICKS"
+      },
+      "entityTypes": [
+        "product"
+      ],
+      "name": "Products",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "color": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "commerce_linkedProductCategories.name": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        },
+        "price.value": {
+          "sortable": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": []
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "shop",
+        "store",
+        "location",
+        "shops",
+        "stores",
+        "florist shop",
+        "flower shop",
+        "locations"
+      ]
+    ],
+    "normalization": []
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": []
+}

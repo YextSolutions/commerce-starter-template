@@ -1,0 +1,32 @@
+{
+  "$id": "baskets",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Baskets",
+    "primaryPhoto": {
+      "image": {
+        "height": 225,
+        "sourceUrl": "https://a.mktgcdn.com/p/5oXEJjpJKnwrKfsw-X-95bf59ip-D4V_tnILVVzlHQo/225x225.jpg",
+        "thumbnails": [
+          {
+            "height": 225,
+            "url": "http://a.mktgcdn.com/p-sandbox/5oXEJjpJKnwrKfsw-X-95bf59ip-D4V_tnILVVzlHQo/225x225.jpg",
+            "width": 225
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/5oXEJjpJKnwrKfsw-X-95bf59ip-D4V_tnILVVzlHQo/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/5oXEJjpJKnwrKfsw-X-95bf59ip-D4V_tnILVVzlHQo/225x225.jpg",
+        "width": 225
+      }
+    }
+  },
+  "entityType": "commerce_category",
+  "labels": [
+    "starterEntity"
+  ]
+}

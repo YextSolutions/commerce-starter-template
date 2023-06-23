@@ -1,0 +1,7 @@
+{
+  "$id": "commerce_category",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "Use this entity type to store information about the categories of the products you sell.",
+  "displayName": "Category",
+  "pluralDisplayName": "Categories"
+}

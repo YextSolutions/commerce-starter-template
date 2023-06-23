@@ -1,0 +1,36 @@
+{
+  "$id": "50-off-all-tulips",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "50% OFF all Tulips",
+    "price": {
+      "currencyCode": "USD",
+      "value": "79.99"
+    },
+    "primaryPhoto": {
+      "image": {
+        "height": 243,
+        "sourceUrl": "https://a.mktgcdn.com/p/zDMVGzF6VsMc7H2Bk8y1o7fMRW2Towz4Lh7l9D0WsRM/208x243.jpg",
+        "thumbnails": [
+          {
+            "height": 243,
+            "url": "http://a.mktgcdn.com/p-sandbox/zDMVGzF6VsMc7H2Bk8y1o7fMRW2Towz4Lh7l9D0WsRM/208x243.jpg",
+            "width": 208
+          },
+          {
+            "height": 229,
+            "url": "http://a.mktgcdn.com/p-sandbox/zDMVGzF6VsMc7H2Bk8y1o7fMRW2Towz4Lh7l9D0WsRM/196x229.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/zDMVGzF6VsMc7H2Bk8y1o7fMRW2Towz4Lh7l9D0WsRM/208x243.jpg",
+        "width": 208
+      }
+    }
+  },
+  "entityType": "commerce_promotion",
+  "labels": [
+    "starterEntity"
+  ]
+}

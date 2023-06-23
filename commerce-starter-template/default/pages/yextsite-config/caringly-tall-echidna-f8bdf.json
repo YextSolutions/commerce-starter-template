@@ -1,0 +1,23 @@
+{
+  "$id": "caringly-tall-echidna-f8bdf",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Pages Starter - Commerce",
+  "repoConfig": "amazingly-kind-mollusk-738dd",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "master",
+      "envVars": [],
+      "isProductionBranch": true
+    }
+  ]
+}

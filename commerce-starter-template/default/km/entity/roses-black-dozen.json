@@ -1,0 +1,127 @@
+{
+  "$id": "roses-black-dozen",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "color": "Black",
+    "commerce_linkedProductCategories": [
+      "roses",
+      "bouquets"
+    ],
+    "commerce_linkedProducts": [
+      "roses-red-dozen"
+    ],
+    "commerce_manufacturersSuggestedRetailPriceMSRP": {
+      "currencyCode": "USD",
+      "value": "35"
+    },
+    "commerce_primaryCTA": {
+      "label": "Add to Cart",
+      "link": "https://www.yext.com",
+      "linkType": "URL"
+    },
+    "name": "Rose Bouquet - Black 1 Dozen",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 251,
+          "sourceUrl": "http://a.mktgcdn.com/p/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/201x251.jpg",
+          "thumbnails": [
+            {
+              "height": 251,
+              "url": "http://a.mktgcdn.com/p-sandbox/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/201x251.jpg",
+              "width": 201
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p-sandbox/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/201x251.jpg",
+          "width": 201
+        }
+      },
+      {
+        "image": {
+          "height": 1000,
+          "sourceUrl": "http://a.mktgcdn.com/p/BQH8u-i85QNqSFk3tG8e42IEQeipSuqXph57EU5htA4/1000x1000.png",
+          "thumbnails": [
+            {
+              "height": 1000,
+              "url": "http://a.mktgcdn.com/p-sandbox/yfUEq2PQ9Qw2FdBOLa-pAqMVvYxCjgklWDTq4gGlb-c/1000x1000.png",
+              "width": 1000
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p-sandbox/yfUEq2PQ9Qw2FdBOLa-pAqMVvYxCjgklWDTq4gGlb-c/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/yfUEq2PQ9Qw2FdBOLa-pAqMVvYxCjgklWDTq4gGlb-c/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p-sandbox/yfUEq2PQ9Qw2FdBOLa-pAqMVvYxCjgklWDTq4gGlb-c/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/yfUEq2PQ9Qw2FdBOLa-pAqMVvYxCjgklWDTq4gGlb-c/1000x1000.png",
+          "width": 1000
+        }
+      },
+      {
+        "image": {
+          "height": 251,
+          "sourceUrl": "http://a.mktgcdn.com/p/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/201x251.jpg",
+          "thumbnails": [
+            {
+              "height": 251,
+              "url": "http://a.mktgcdn.com/p-sandbox/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/201x251.jpg",
+              "width": 201
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p-sandbox/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/201x251.jpg",
+          "width": 201
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "35"
+    },
+    "primaryPhoto": {
+      "image": {
+        "height": 251,
+        "sourceUrl": "http://a.mktgcdn.com/p/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/201x251.jpg",
+        "thumbnails": [
+          {
+            "height": 251,
+            "url": "http://a.mktgcdn.com/p-sandbox/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/201x251.jpg",
+            "width": 201
+          },
+          {
+            "height": 245,
+            "url": "http://a.mktgcdn.com/p-sandbox/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/196x245.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/7qNbQIps5KxE35LF-gTNkJRLHAvtRDwrm4l67DDHmA4/201x251.jpg",
+        "width": 201
+      }
+    },
+    "richTextDescription": "All of the most beautiful roses in one bundle.\n\n\n\n\nA vibrant mix of black, white and pink\\-hued blossoms. The feminine color palette is pretty without being overtly sweet, much like the rare and magical creature it is named after. Add a touch of purple this season with a mix of lavender\\-hued roses and sprigs of aster.  \n**Includes**\n\n\n\n\n* Roses\n* Aster\n* Alstroemeria",
+    "slug": "roses-black-dozen"
+  },
+  "entityType": "product",
+  "labels": [
+    "starterEntity"
+  ]
+}

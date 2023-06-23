@@ -1,0 +1,31 @@
+{
+  "$id": "commerce_productDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Product Description",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "richTextType": {
+      "maxLength": 100000,
+      "supportedFormat": [
+        "BLOCK_QUOTE",
+        "BOLD",
+        "BULLETED_LIST",
+        "CODE_BLOCK",
+        "CODE_SPAN",
+        "HEADINGS",
+        "HORIZONTAL_LINE",
+        "HYPERLINK",
+        "IMAGE",
+        "ITALICS",
+        "NUMBERED_LIST",
+        "STRIKETHROUGH",
+        "SUBSCRIPT",
+        "SUPERSCRIPT",
+        "UNDERLINE"
+      ]
+    }
+  },
+  "typeId": "richText"
+}

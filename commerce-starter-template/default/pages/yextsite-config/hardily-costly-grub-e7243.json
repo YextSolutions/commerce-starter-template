@@ -1,0 +1,28 @@
+{
+  "$id": "hardily-costly-grub-e7243",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Search Starter - Commerce - React",
+  "repoConfig": "jazzily-mushy-dogfish-1a950",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "master",
+      "envVars": [],
+      "isProductionBranch": true
+    },
+    {
+      "name": "main",
+      "envVars": [],
+      "isProductionBranch": false
+    }
+  ]
+}
