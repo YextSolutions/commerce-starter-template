@@ -1,8 +1,11 @@
 {
-  "$id": "caringly-tall-echidna-f8bdf",
+  "$id": "commerce-starter-pages-templates",
   "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
   "siteName": "Pages Starter - Commerce",
-  "repoConfig": "amazingly-kind-mollusk-738dd",
+  "repoConfig": {
+    “targetRepoName”: “commerce-starter-pages-templates-${{businessId}}.com”,
+    “templateRepo”: “github.com/yext-pages/pages_starter_commerce__3220514”
+  },
   "siteSettings": {
     "autoDeploy": true,
     "autoStage": true,
