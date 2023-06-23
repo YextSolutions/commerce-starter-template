@@ -1,8 +1,11 @@
 {
-  "$id": "hardily-costly-grub-e7243",
+  "$id": "commerce-starter-search-react",
   "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
   "siteName": "Search Starter - Commerce - React",
-  "repoConfig": "jazzily-mushy-dogfish-1a950",
+  "repoConfig": {
+    “targetRepoName”: “commerce-starter-search-react-${{businessId}}.com”,
+    “templateRepo”: “github.com/yext-pages/starter_commerce_react_3220514”
+  },
   "siteSettings": {
     "autoDeploy": true,
     "autoStage": true,
