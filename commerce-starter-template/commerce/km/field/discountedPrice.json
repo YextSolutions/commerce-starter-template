@@ -1,9 +1,0 @@
-{
-  "$id": "commerce_discountedPrice",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Discounted Price",
-  "group": "NONE",
-  "localization": "OVERRIDABLE",
-  "typeId": "price"
-}

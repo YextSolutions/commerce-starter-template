@@ -1,9 +1,0 @@
-{
-  "$id": "commerce_manufacturersSuggestedRetailPriceMSRP",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Manufacturers Suggested Retail Price (MSRP)",
-  "group": "NONE",
-  "localization": "OVERRIDABLE",
-  "typeId": "price"
-}

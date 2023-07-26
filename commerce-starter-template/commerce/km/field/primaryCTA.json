@@ -1,9 +1,0 @@
-{
-  "$id": "commerce_primaryCTA",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Primary CTA",
-  "group": "NONE",
-  "localization": "OVERRIDABLE",
-  "typeId": "cta"
-}
