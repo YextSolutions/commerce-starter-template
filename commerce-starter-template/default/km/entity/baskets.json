@@ -1,0 +1,63 @@
+{
+  "$id": "baskets",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Baskets",
+    "primaryPhoto": {
+      "image": {
+        "height": 225,
+        "sourceUrl": "https://a.mktgcdn.com/p/5oXEJjpJKnwrKfsw-X-95bf59ip-D4V_tnILVVzlHQo/225x225.jpg",
+        "thumbnails": [
+          {
+            "height": 225,
+            "url": "https://a.mktgcdn.com/p/5oXEJjpJKnwrKfsw-X-95bf59ip-D4V_tnILVVzlHQo/225x225.jpg",
+            "width": 225
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/5oXEJjpJKnwrKfsw-X-95bf59ip-D4V_tnILVVzlHQo/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/5oXEJjpJKnwrKfsw-X-95bf59ip-D4V_tnILVVzlHQo/225x225.jpg",
+        "width": 225
+      }
+    },
+    "shortDescription": "Explore the beauty of nature with our exquisite floral baskets, thoughtfully curated to bring elegance and joy to any occasion.",
+    "shortDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Explore the beauty of nature with our exquisite floral baskets, thoughtfully curated to bring elegance and joy to any occasion. ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "slug": "baskets"
+  },
+  "entityType": "commerce_category",
+  "labels": ["commerce_starterEntity"]
+}

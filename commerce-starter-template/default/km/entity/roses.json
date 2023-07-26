@@ -1,0 +1,74 @@
+{
+  "$id": "roses",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "commerce_linkedProducts": ["roses-black-dozen", "roses-red-dozen"],
+    "name": "Roses",
+    "primaryPhoto": {
+      "image": {
+        "height": 1800,
+        "sourceUrl": "https://a.mktgcdn.com/p/C-MMWH_r8nkd5npIgigapmPRdQ-yIBZKxfbHOkppJNw/1800x1800.jpg",
+        "thumbnails": [
+          {
+            "height": 1800,
+            "url": "https://a.mktgcdn.com/p/C-MMWH_r8nkd5npIgigapmPRdQ-yIBZKxfbHOkppJNw/1800x1800.jpg",
+            "width": 1800
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p/C-MMWH_r8nkd5npIgigapmPRdQ-yIBZKxfbHOkppJNw/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/C-MMWH_r8nkd5npIgigapmPRdQ-yIBZKxfbHOkppJNw/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/C-MMWH_r8nkd5npIgigapmPRdQ-yIBZKxfbHOkppJNw/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/C-MMWH_r8nkd5npIgigapmPRdQ-yIBZKxfbHOkppJNw/1800x1800.jpg",
+        "width": 1800
+      }
+    },
+    "shortDescription": "Choose from a variety of hues and arrangements to express your affectionate sentiments or ignite the passion in any heart.",
+    "shortDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Indulge in timeless romance with our captivating bouquets of roses, where each velvety petal conveys the language of love. Choose from a variety of hues and arrangements to express your affectionate sentiments or ignite the passion in any heart.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "slug": "roses"
+  },
+  "entityType": "commerce_category",
+  "labels": ["commerce_starterEntity"]
+}

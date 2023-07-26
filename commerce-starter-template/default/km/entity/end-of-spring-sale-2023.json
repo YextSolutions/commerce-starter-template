@@ -1,0 +1,82 @@
+{
+  "$id": "end-of-spring-sale-2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "End of Spring - Sale",
+    "price": {
+      "currencyCode": "USD",
+      "value": "59.99"
+    },
+    "primaryPhoto": {
+      "image": {
+        "height": 1560,
+        "sourceUrl": "https://a.mktgcdn.com/p/ajmFReCqjwf5V6Vu61WWso2m7tjZqQfJclhmEURsFeU/2340x1560.jpg",
+        "thumbnails": [
+          {
+            "height": 1560,
+            "url": "https://a.mktgcdn.com/p/ajmFReCqjwf5V6Vu61WWso2m7tjZqQfJclhmEURsFeU/2340x1560.jpg",
+            "width": 2340
+          },
+          {
+            "height": 1267,
+            "url": "https://a.mktgcdn.com/p/ajmFReCqjwf5V6Vu61WWso2m7tjZqQfJclhmEURsFeU/1900x1267.jpg",
+            "width": 1900
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p/ajmFReCqjwf5V6Vu61WWso2m7tjZqQfJclhmEURsFeU/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p/ajmFReCqjwf5V6Vu61WWso2m7tjZqQfJclhmEURsFeU/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p/ajmFReCqjwf5V6Vu61WWso2m7tjZqQfJclhmEURsFeU/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/ajmFReCqjwf5V6Vu61WWso2m7tjZqQfJclhmEURsFeU/2340x1560.jpg",
+        "width": 2340
+      }
+    },
+    "shortDescription": "Say farewell to spring in style with our End\\-of\\-Season Sale! Hurry, while supplies last!",
+    "shortDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Say farewell to spring in style with our End-of-Season Sale! Enjoy irresistible discounts on enchanting floral arrangements and botanical gifts. Hurry, while supplies last!",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "slug": "end-of-spring-sale-2023"
+  },
+  "entityType": "commerce_promotion",
+  "labels": ["commerce_starterEntity"]
+}
