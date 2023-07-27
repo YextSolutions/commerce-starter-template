@@ -1,0 +1,77 @@
+{
+  "$id": "roses-black-dozen",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "color": "Black",
+    "commerce_linkedProductCategory": ["bouquets", "roses"],
+    "commerce_productDescription": {
+      "markdown": "\nIntroducing our alluring \"Midnight Enchantment\" bouquet, a bewitching arrangement of a dozen black roses that embodies mystery and intrigue. Each unique bloom has been meticulously cultivated to achieve the deepest shade of black, creating a stunning contrast against the lush greenery. The \"Midnight Enchantment\" bouquet is a symbol of elegance and sophistication, perfect for those seeking a distinctive and unconventional expression of emotion.\n\nCrafted with utmost care by our skilled florists, the \"Midnight Enchantment\" bouquet is a rare and exquisite gift that will captivate the senses. Each black rose carries an air of enigma, making it an ideal choice for special occasions or as a memorable gesture to surprise and delight a loved one. Embrace the allure of the unknown and let the \"Midnight Enchantment\" bouquet cast its spell on those who dare to venture into the realm of extraordinary beauty.\n\nUnveil the mysterious allure of the \"Midnight Enchantment\" bouquet and let it speak for you in a language known only to the heart. Whether it\u0027s for an anniversary, a gothic-themed event, or an expression of profound admiration, this bouquet promises to leave a lasting impression, invoking emotions that words alone cannot convey. Delight in the darkness and enchantment of these unique black roses and make a statement that defies convention with this extraordinary bouquet."
+    },
+    "name": "Rose Bouquet - Black 1 Dozen",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 600,
+          "sourceUrl": "https://s3.infinityroses.com/uploads/gift_variant/gift_variant_second/180/medium_open-uri20230423-5356-1jh27nw",
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p/F5d-f4GPO1VyIR6Tnx4054zscEkEm8FGgM6KS102yVY/600x600.jpg",
+              "width": 600
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/F5d-f4GPO1VyIR6Tnx4054zscEkEm8FGgM6KS102yVY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "https://a.mktgcdn.com/p/F5d-f4GPO1VyIR6Tnx4054zscEkEm8FGgM6KS102yVY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/F5d-f4GPO1VyIR6Tnx4054zscEkEm8FGgM6KS102yVY/600x600.jpg",
+          "width": 600
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "35"
+    },
+    "primaryPhoto": {
+      "image": {
+        "height": 800,
+        "sourceUrl": "https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1686531155/vendor/694/catalog/product/2/0/20191111070101_file_5dc9afed91783_5dc9b1ea4d071.jpg",
+        "thumbnails": [
+          {
+            "height": 800,
+            "url": "https://a.mktgcdn.com/p/BE2lbLSrnG3zKrMIhXcemfbg4RLUfvac60YrFAAup-A/800x800.jpg",
+            "width": 800
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p/BE2lbLSrnG3zKrMIhXcemfbg4RLUfvac60YrFAAup-A/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/BE2lbLSrnG3zKrMIhXcemfbg4RLUfvac60YrFAAup-A/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/BE2lbLSrnG3zKrMIhXcemfbg4RLUfvac60YrFAAup-A/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/BE2lbLSrnG3zKrMIhXcemfbg4RLUfvac60YrFAAup-A/800x800.jpg",
+        "width": 800
+      }
+    },
+    "slug": "roses-black-dozen"
+  },
+  "entityType": "product",
+  "labels": ["commerce_starterEntity"]
+}

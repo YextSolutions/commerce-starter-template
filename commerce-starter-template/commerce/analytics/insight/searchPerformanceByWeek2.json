@@ -1,0 +1,17 @@
+{
+  "$id": "commerce_searchPerformanceByWeek2",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Search Performance by Week",
+  "description": "Sessions, Searches, Clicks by Week",
+  "query": {
+    "metrics": [
+      "yext/ANSWERS_SESSIONS",
+      "yext/ANSWERS_SEARCHES",
+      "yext/ANSWERS_CLICKS"
+    ],
+    "dimensions": ["yext/WEEKS"]
+  },
+  "display": {
+    "table": {}
+  }
+}

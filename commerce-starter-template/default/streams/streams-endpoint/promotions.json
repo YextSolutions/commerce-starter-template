@@ -1,0 +1,13 @@
+{
+  "$id": "promotions",
+  "$schema": "https://schema.yext.com/config/streams/streams-endpoint/v2",
+  "name": "Promotions",
+  "stream": {
+    "source": "content",
+    "fields": ["name", "primaryPhoto.image.url", "shortDescriptionV2"],
+    "filter": {
+      "entityTypes": ["commerce_promotion"]
+    },
+    "localization": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "$id": "commerce_category",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Category",
+  "pluralDisplayName": "categories"
+}
