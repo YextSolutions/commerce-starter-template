@@ -1,6 +1,0 @@
-{
-  "$id": "actually-purring-moose-eb9d1",
-  "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/yext-pages/starter-commerce-search-react-${{businessId}}",
-  "templateRepo": "github.com/yext-pages/starter-commerce-search-react-3220514"
-}
