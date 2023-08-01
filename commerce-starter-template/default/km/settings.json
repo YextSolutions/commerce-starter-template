@@ -1,0 +1,25 @@
+{
+  "$schema": "https://schema.yext.com/config/km/settings/v1",
+  "primaryEntityType": "location",
+  "entityTypeSettings": [
+    {
+      "entityType": "location",
+      "disabled": false
+    },
+    {
+      "entityType": "product",
+      "defaultFieldEligibilityGroup": "product.default",
+      "disabled": false
+    },
+    {
+      "entityType": "commerce_category",
+      "defaultFieldEligibilityGroup": "commerce_category.default",
+      "disabled": false
+    },
+    {
+      "entityType": "commerce_promotion",
+      "defaultFieldEligibilityGroup": "commerce_promotion.default",
+      "disabled": false
+    }
+  ]
+}

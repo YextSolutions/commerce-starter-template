@@ -1,0 +1,122 @@
+{
+  "$id": "pink-starbust-boquet",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "color": "Pink",
+    "commerce_linkedProductCategory": ["bouquets"],
+    "commerce_productDescription": {
+      "markdown": "Introducing our enchanting \"Pink Starbust\" bouquet, a delightful arrangement of unique pink flowers that exudes grace, charm, and a touch of whimsy. Hand-selected for their one-of-a-kind beauty, each bloom showcases a variety of delicate pink hues, creating a harmonious and captivating display. The \"Pink Serenity\" bouquet is a celebration of individuality, offering a refreshing departure from traditional arrangements, making it a perfect gift for those who appreciate the extraordinary.\n\nCrafted with an artistic flair by our skilled floral designers, the \"Pink Starbrurst\" bouquet is a true masterpiece that will leave recipients in awe. The assortment of rare pink flowers combines elegance and playfulness, making it an ideal choice for birthdays, celebrations, or simply to brighten someone\u0027s day with a unique touch. Let the \"Pink Serenity\" bouquet inspire a sense of tranquility and wonder, as each flower whispers a tale of its own, weaving together a captivating story of beauty and charm.\n\nEmbrace the allure of the unconventional and bask in the splendor of the \"Pink Starburst\" bouquet. With its exquisite blend of distinctive pink blooms, this enchanting arrangement promises to be a delightful surprise, spreading joy and warmth wherever it goes. Celebrate the extraordinary with the \"Pink Serenity\" bouquet and let its distinctive beauty leave an everlasting impression on your loved ones."
+    },
+    "name": "Pink Starbust Bouquet",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1560,
+          "sourceUrl": "https://images.unsplash.com/photo-1499842790329-14db82033291?ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d2340\u0026q\u003d80",
+          "thumbnails": [
+            {
+              "height": 1560,
+              "url": "https://a.mktgcdn.com/p/tUbnN-yjntdpbErCXP-l3svOAf6M6SuHzw35pEeM5G0/2340x1560.jpg",
+              "width": 2340
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p/tUbnN-yjntdpbErCXP-l3svOAf6M6SuHzw35pEeM5G0/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p/tUbnN-yjntdpbErCXP-l3svOAf6M6SuHzw35pEeM5G0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p/tUbnN-yjntdpbErCXP-l3svOAf6M6SuHzw35pEeM5G0/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p/tUbnN-yjntdpbErCXP-l3svOAf6M6SuHzw35pEeM5G0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/tUbnN-yjntdpbErCXP-l3svOAf6M6SuHzw35pEeM5G0/2340x1560.jpg",
+          "width": 2340
+        }
+      },
+      {
+        "image": {
+          "height": 1561,
+          "sourceUrl": "https://plus.unsplash.com/premium_photo-1676272747130-348694463771?ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d2338\u0026q\u003d80",
+          "thumbnails": [
+            {
+              "height": 1561,
+              "url": "https://a.mktgcdn.com/p/7Xv1dMGqmUWtMFqHhhQb8PW0BD5rw5HdlbqN2q65Fd0/2338x1561.jpg",
+              "width": 2338
+            },
+            {
+              "height": 1269,
+              "url": "https://a.mktgcdn.com/p/7Xv1dMGqmUWtMFqHhhQb8PW0BD5rw5HdlbqN2q65Fd0/1900x1269.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p/7Xv1dMGqmUWtMFqHhhQb8PW0BD5rw5HdlbqN2q65Fd0/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 401,
+              "url": "https://a.mktgcdn.com/p/7Xv1dMGqmUWtMFqHhhQb8PW0BD5rw5HdlbqN2q65Fd0/600x401.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p/7Xv1dMGqmUWtMFqHhhQb8PW0BD5rw5HdlbqN2q65Fd0/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/7Xv1dMGqmUWtMFqHhhQb8PW0BD5rw5HdlbqN2q65Fd0/2338x1561.jpg",
+          "width": 2338
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "29"
+    },
+    "primaryPhoto": {
+      "image": {
+        "height": 800,
+        "sourceUrl": "https://images.unsplash.com/photo-1591963944277-fe153988e471?ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxzZWFyY2h8MTF8fHBpbmslMjBmbG93ZXIlMjBib3VxdWV0fGVufDB8fDB8fHww\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d800\u0026q\u003d60",
+        "thumbnails": [
+          {
+            "height": 800,
+            "url": "https://a.mktgcdn.com/p/WuI3WY1JZ9wQHbNou9QCz7ktCyd5zB8Kre7VH0FuXa8/800x800.jpg",
+            "width": 800
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p/WuI3WY1JZ9wQHbNou9QCz7ktCyd5zB8Kre7VH0FuXa8/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/WuI3WY1JZ9wQHbNou9QCz7ktCyd5zB8Kre7VH0FuXa8/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/WuI3WY1JZ9wQHbNou9QCz7ktCyd5zB8Kre7VH0FuXa8/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/WuI3WY1JZ9wQHbNou9QCz7ktCyd5zB8Kre7VH0FuXa8/800x800.jpg",
+        "width": 800
+      }
+    },
+    "slug": "pink-starbust-boquet"
+  },
+  "entityType": "product",
+  "labels": ["commerce_starterEntity"]
+}

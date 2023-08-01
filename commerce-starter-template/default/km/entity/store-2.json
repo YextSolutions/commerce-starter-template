@@ -1,0 +1,98 @@
+{
+  "$id": "store-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Savannah",
+      "countryCode": "US",
+      "line1": "515 Barnard St",
+      "postalCode": "31401",
+      "region": "GA"
+    },
+    "addressHidden": false,
+    "hours": {
+      "friday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "monday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "15:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "18:00",
+            "start": "11:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+18005550000",
+    "name": "Sunshine Flower Boutique - Downtown Savannah",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1562,
+          "sourceUrl": "https://images.unsplash.com/photo-1487070183336-b863922373d4?ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d2340\u0026q\u003d80",
+          "thumbnails": [
+            {
+              "height": 1562,
+              "url": "https://a.mktgcdn.com/p/n7nX9ABxU3St746fgMuMoxsCn8Hgr8yn7xBV_wjCq4Q/2340x1562.jpg",
+              "width": 2340
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/n7nX9ABxU3St746fgMuMoxsCn8Hgr8yn7xBV_wjCq4Q/2340x1562.jpg",
+          "width": 2340
+        }
+      }
+    ],
+    "slug": "savannah",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "folder": "yext/root",
+  "labels": ["commerce_starterEntity"]
+}

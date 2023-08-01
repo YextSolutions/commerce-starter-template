@@ -1,0 +1,72 @@
+{
+  "$id": "start-wedding-plans-today",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Start Wedding Planning Today",
+    "primaryPhoto": {
+      "image": {
+        "height": 1200,
+        "sourceUrl": "https://a.mktgcdn.com/p/1J0owKiGJhy_J9ndYoQ6jmxSixMGpiuT6NoOPS76l9A/800x1200.jpg",
+        "thumbnails": [
+          {
+            "height": 1200,
+            "url": "https://a.mktgcdn.com/p/1J0owKiGJhy_J9ndYoQ6jmxSixMGpiuT6NoOPS76l9A/800x1200.jpg",
+            "width": 800
+          },
+          {
+            "height": 929,
+            "url": "https://a.mktgcdn.com/p/1J0owKiGJhy_J9ndYoQ6jmxSixMGpiuT6NoOPS76l9A/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/1J0owKiGJhy_J9ndYoQ6jmxSixMGpiuT6NoOPS76l9A/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "https://a.mktgcdn.com/p/1J0owKiGJhy_J9ndYoQ6jmxSixMGpiuT6NoOPS76l9A/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/1J0owKiGJhy_J9ndYoQ6jmxSixMGpiuT6NoOPS76l9A/800x1200.jpg",
+        "width": 800
+      }
+    },
+    "shortDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Begin your enchanting journey towards the perfect wedding today! Unlock a world of possibilities, from dreamy venues to exquisite floral arrangements, as you embark on crafting the celebration of a lifetime. Don\u0027t wait, let the planning magic unfold now!",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "slug": "start-wedding-plans-today"
+  },
+  "entityType": "commerce_promotion",
+  "labels": ["commerce_starterEntity"]
+}

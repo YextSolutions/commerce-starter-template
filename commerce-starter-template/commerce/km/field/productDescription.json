@@ -1,0 +1,11 @@
+{
+  "$id": "commerce_productDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Product Description",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "markdownType": {}
+  },
+  "typeId": "markdown"
+}
