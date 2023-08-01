@@ -1,6 +1,0 @@
-{
-  "$id": "blithely-excellent-mustang-07024",
-  "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/yext-pages/commerce-pages-starter-studio-${{businessId}}",
-  "templateRepo": "github.com/yext-pages/commerce-pages-starter-studio"
-}

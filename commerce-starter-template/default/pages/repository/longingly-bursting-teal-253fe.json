@@ -1,6 +1,0 @@
-{
-  "$id": "longingly-bursting-teal-253fe",
-  "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/yext-pages/starter-commerce-theme-${{businessId}}",
-  "templateRepo": "github.com/yext-pages/starter_commerce_theme_3220514"
-}
